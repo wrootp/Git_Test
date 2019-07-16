@@ -8,5 +8,6 @@ public class cont_EgitTest {
 		System.out.println("FFFFF");
 		System.out.println("EEEEE");
 		System.out.println("BBBBB");
+		System.out.println("bbbbb");
 	}
 }
